@@ -1,0 +1,13 @@
+Manuscripts should not typically exceed 10 pages (including figures and tables). In general, allow 900 words per page and subtract 160 words for each figure and table.
+
+Upon its first use in the title, abstract, and text, the common name of a species should be followed by the scientific name (genus, species, and authority) in parentheses. 
+For well-known species, however, scientific names may be omitted from article titles. If no common name exists in English, only the scientific name should be used.
+
+Nucleotide sequence data can be submitted in electronic form to any of the three major collaborative databases: DDBJ, EMBL, or GenBank. 
+It is only necessary to submit to one database as data are exchanged between DDBJ, EMBL, and GenBank on a daily basis. 
+The suggested wording for referring to accession-number information is: 
+‘These sequence data have been submitted to the DDBJ/EMBL/GenBank databases under accession number U12345’. Addresses are as follows:
+
+DNA Data Bank of Japan (DDBJ): www.ddbj.nig.ac.jp
+EMBL Nucleotide Archive: ebi.ac.uk/ena
+GenBank: www.ncbi.nlm.nih.gov/genbank
